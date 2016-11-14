@@ -25,5 +25,5 @@ getIcons:addEventListener("tap", function (  )
 end)
 
 setIcons:addEventListener("tap", function (  )
-	quickAction.loadShortcuts(loadIcons)
+	quickAction.setShortcuts(loadIcons)
 end)
