@@ -49,8 +49,8 @@ settings =
 	}
 	plugins= {
 		["plugin.quickAction"] = {
-			publisherId = "com.scottrules44",
-            supportedPlatforms = { iphone=true, android=true },
+			publisherId = "tech.scotth",
+            		supportedPlatforms = { iphone=true},
 		}
 	}
 }
